@@ -1,2 +1,2 @@
 # Website-for-The-Collector
-Website as documentation for out 'The Collector' chrome extension
+Website as documentation for our 'The Collector' chrome extension
